@@ -1,6 +1,3 @@
-<div align="center">
-  <img height="200" src="https://pixabay.com/photos/trail-trees-forest-path-woods-5726987/"  />
-</div>
 
 ###
 
